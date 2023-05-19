@@ -3,7 +3,7 @@
 > A starter kit for Element Plus with Vite
 
 # 已完成了常用的初始化配置
-# 跨域、vite、TS、Axios等
+# proxy、vite、TS、Axios、组件自动按需注入等
 
 ## Project setup
 
